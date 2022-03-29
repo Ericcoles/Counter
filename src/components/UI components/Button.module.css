@@ -1,0 +1,22 @@
+.button {
+  font: inherit;
+  border: 1px solid green;
+  color: green;
+  background-color: lightgreen;
+  padding: 1rem 1.5rem;
+  border-radius: 10px;
+  font-size: inherit;
+  cursor: pointer;
+  align-items: center;
+  justify-content: center;
+  display: inline;
+  margin-left: 7rem;
+}
+
+.primary {
+  background-color: orange;
+}
+
+.secondary {
+  background-color: peru;
+}

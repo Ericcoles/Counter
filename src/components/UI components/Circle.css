@@ -1,0 +1,21 @@
+.circle {
+  height: 250px;
+  width: 250px;
+  margin: 2rem;
+  border-radius: 50%;
+  background-color: cornsilk;
+  text-align: center;
+  align-content: center;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  margin-left: 35rem;
+}
+
+.odd {
+  background-color: peru;
+}
+
+.even {
+  background-color: royalblue;
+}
